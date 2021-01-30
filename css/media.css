@@ -1,0 +1,18 @@
+@media (max-width: 455px) {
+  .foot li + li {
+    padding-left: 25px;
+  }
+}
+@media (max-width: 420px) {
+  .foot li + li {
+    padding-left: 5px;
+  }
+  .p__text-one {
+    font-size: 18px;
+  }
+}
+@media (max-width: 339px) {
+  .p__text-one {
+    font-size: 14px;
+  }
+}
